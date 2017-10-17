@@ -8,4 +8,7 @@ We only keep attributes which may be used in the future research. The raw data c
 ## Geocoding
 We adopted Google Map or Baidu Map API to get the geographical information of each land parcel.
 
+## Visualization
+The spatial distribution of land parcel or visualized as follows:
+http://jianghao.wang/parcel/land_PRD_map.html
  
