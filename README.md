@@ -10,5 +10,5 @@ We adopted Google Map or Baidu Map API to get the geographical information of ea
 
 ## Visualization
 The spatial distribution of land parcel or visualized as follows:
-http://jianghao.wang/parcel/land_PRD_map.html
+[Land Map](http://jianghao.wang/parcel/land_PRD_map.html)
  
